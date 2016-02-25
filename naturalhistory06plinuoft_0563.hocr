@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalhistory06plinuoft_0563.png"; bbox 0 0 1469 2299; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 359 944 941 1057">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 359 944 941 1057">
+     <span class='ocr_line' id='line_1_1' title="bbox 398 944 901 969; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 398 944 531 968; x_wconf 71' lang='lat' dir='ltr'><strong>pamm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 550 949 581 969; x_wconf 79' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 600 945 700 969; x_wconf 73' lang='lat' dir='ltr'>GREAT</span> <span class='ocrx_word' id='word_1_4' title='bbox 720 945 843 969; x_wconf 64' lang='lat' dir='ltr'>Eurum</span> <span class='ocrx_word' id='word_1_5' title='bbox 863 949 901 969; x_wconf 76' lang='lat' dir='ltr'><strong>mr</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 359 985 941 1018; baseline 0 -8"><span class='ocrx_word' id='word_1_6' title='bbox 359 986 493 1010; x_wconf 70' lang='lat' dir='ltr'><strong>mommo</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 512 985 590 1010; x_wconf 68' lang='lat' dir='ltr'><strong>Onu</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 610 989 669 1009; x_wconf 69' lang='lat' dir='ltr'><strong>mn</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 688 986 841 1016; x_wconf 69' lang='lat' dir='ltr'>comm,</span> <span class='ocrx_word' id='word_1_10' title='bbox 860 985 941 1018; x_wconf 63' lang='lat' dir='ltr'><strong>nro„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 493 1026 790 1057; baseline 0.007 -7"><span class='ocrx_word' id='word_1_11' title='bbox 493 1026 627 1057; x_wconf 61' lang='lat' dir='ltr'>Rumon,</span> <span class='ocrx_word' id='word_1_12' title='bbox 648 1026 790 1052; x_wconf 71' lang='lat' dir='ltr'><strong>Surmmz.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
